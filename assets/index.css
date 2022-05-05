@@ -1,0 +1,47 @@
+html{
+    background-color: rgb(0, 0, 0);
+}
+body{
+    margin: auto;
+    width: 60%;
+    background-color: 247, 247 247;
+}
+nav{
+    display: inline-block;
+}
+nav h1{
+    text-align: left;
+    font-size: 50px;
+    text-align: center;
+    color: bisque;
+    text-size-adjust: ;
+}
+.sect1{
+    display: flex;
+    flex-direction: column;
+}
+#phone{
+    background-image: url(./images/in.jpeg);
+    justify-content: center;
+}
+.sect1L{
+    width: 50%;
+}
+.sect1R UL{
+    float: right;
+    margin-right: 10PX;
+    color: bisque;
+    list-style: none;
+    display: inline-flex;
+    width: 50%;
+}
+.sect2L img{
+    height: 70%;
+    width: auto;
+    margin-right: 10px;
+    float: left;
+}
+p{
+    margin-top: 40px;
+    color: bisque;
+}
